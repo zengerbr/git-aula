@@ -3,4 +3,4 @@
 
 *git pull
 
-*git fetsh
+*git fetch
