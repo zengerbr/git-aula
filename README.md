@@ -1,5 +1,5 @@
-# cursi digital GIT
+# curso digital GIT
 
 ## Gravando curso
 ## linha acrescentada
-# Mudança
+
