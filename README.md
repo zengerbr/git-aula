@@ -1,4 +1,6 @@
 # Curso digital git
+
+## Comandos
 *git push
 
 *git pull
