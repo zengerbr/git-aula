@@ -1,5 +1,4 @@
-# curso digital GIT
-
+# Curso digital git
 ## Gravando curso
 ## linha acrescentada
 ## Test edit
