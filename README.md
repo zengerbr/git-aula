@@ -1,4 +1,4 @@
 # Curso digital git
-## Gravando curso
-## linha acrescentada
-## Test edit
+*git push
+*git pull
+*git fetsh
